@@ -1,6 +1,6 @@
 # Data-Project-1
 
-For this project, we sought to examine how Google search data for trends could be predictive of health and health behaviors around Covid. Our first question  aimed to determine if there is a relationship between Google searches for common Covid symptoms and surges in Covid cases. From this question, we hope to gain insight on how search data could be used as a tool to predict surges in the case of future pan/epidemics. 
+#For this project, we sought to examine how Google search data for trends could be predictive of health and health behaviors around Covid. Our first question  aimed to determine if there is a relationship between Google searches for common Covid symptoms and surges in Covid cases. From this question, we hope to gain insight on how search data could be used as a tool to predict surges in the case of future pan/epidemics. 
 
 #Our second question aimed to examine if health behaviors matched with Google searches. We examined this relationship, first in a forward direction in which we examined Google searches for vaccination appointments and compared those searches to new persons vaccinated. We then examined this relationship in an inverted fashion, where we used a known event that likely affected the count of new persons vaccinated with a specific vaccine, then examined if searches for side effects would reflect this. 
 
