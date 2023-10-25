@@ -18,3 +18,6 @@
 
 #Covid Cases and deaths found at: 
 #https://github.com/nytimes/covid-19-data/blob/master/us.csv
+
+#Our Presentation can be found at:
+#https://docs.google.com/presentation/d/1pLyeiXMoukXWrZhZr_5XfymxGNkUlnB9lJ7z0XoBS44/edit?usp=sharing
